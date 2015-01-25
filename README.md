@@ -1,2 +1,2 @@
-# puppet
-Puppet repo
+***Puppet Installation***
+-------------------------
